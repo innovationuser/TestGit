@@ -1,0 +1,1 @@
+UCD_App="IENET",UCD_Component="Policy Service",TROUX_App="IENET",TEchnology=".Net",Interacting_Services="VIN : http://vinservice-st2.dvllb.travp.net/vin.xml",Release="June 2019"
